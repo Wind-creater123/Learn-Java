@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaLearn.iml" filepath="$PROJECT_DIR$/JavaLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test10/Test10.iml" filepath="$PROJECT_DIR$/Test10/Test10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test11/Test11.iml" filepath="$PROJECT_DIR$/Test11/Test11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test4/Test4.iml" filepath="$PROJECT_DIR$/Test4/Test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test5/Test5.iml" filepath="$PROJECT_DIR$/Test5/Test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test6/Test6.iml" filepath="$PROJECT_DIR$/Test6/Test6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test7/Test7.iml" filepath="$PROJECT_DIR$/Test7/Test7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test8/Test8.iml" filepath="$PROJECT_DIR$/Test8/Test8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test9/Test9.iml" filepath="$PROJECT_DIR$/Test9/Test9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test2/test2.iml" filepath="$PROJECT_DIR$/test2/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test3/test3.iml" filepath="$PROJECT_DIR$/test3/test3.iml" />
+    </modules>
+  </component>
+</project>
